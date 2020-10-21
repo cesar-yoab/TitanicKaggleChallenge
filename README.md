@@ -1,4 +1,4 @@
-# Kaggle Titanic Competition
+# Kaggle Titanic Challenge
 [Link](https://www.kaggle.com/c/titanic/overview/evaluation) to competition website
 
 **Goal**: Predict if a passenger survived the sinking of the Titanic or not.
@@ -25,4 +25,3 @@ Etc.
 Some References:
 1. [Titanic Tut](https://www.kaggle.com/blurredmachine/titanic-survival-a-complete-guide-for-beginners)
 2. [Data Science Tut](https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy)
-3. 
